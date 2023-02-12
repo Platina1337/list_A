@@ -1,4 +1,4 @@
-package list3;
+package list1;
 
 public class ScopeDemo {
     public static void main(String[] args) {
